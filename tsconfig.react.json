@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "Node",
+        "lib": ["DOM", "ESNext"],
+        "jsx": "react-jsx",
+        "noEmit": true,
+        "isolatedModules": true,
+        "skipLibCheck": true,
+        "resolveJsonModule": true
+
+    },
+    "include": ["./src/**/*"],
+    "exclude": [
+        "node_modules"
+    ]
+}
