@@ -1,0 +1,16 @@
+Solo para los devs
+
+❗ Para la primera vez que haces clone al repositorio:
+    1. ejecuta ▶️npm install◀️ para instalar las dependencias que usa el proyecto
+
+🟠 Para correr el servidor:
+    1. primero usa el comando ▶️npm run build◀️ para generar tu carpeta con los archivos compilados
+    2. una vez hecha la build, corre tu servidor de desarrollo con ▶️npm run start◀️
+
+📑 Tareas
+    * De momento crear landing page para el contexto de la web
+    * Aun no se si la generacion de archivos la haremos parte de la pagina o la vamos a hacer por el lado de una api con servidor
+
+📘 Notas
+    * En la carpeta sec/components (onviamente van los componentes que se van creando para renderizar)
+    * No tocar archivos fuera de la carpeta src, en caso de querer hacerlo consultarlo con el team
