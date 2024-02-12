@@ -5,9 +5,15 @@ ademas de poder completar los documentos directamente, sin necesidad de ir a otr
 En que tecnologia:
 Nuestra idea es utilizar Express JS, ya que se acomoda a nuestras necesidades.
 
-Integrantes:
+<h3>Integrantes</h3>
 
-Omar Adrian Acosta Santiago 18550685
-Axel Gabriel Ferrel Meza 20550732
-Karen Vanessa Gil Najera 20550352
-Ivan Alejandro Arreola Chavez 20550393
+<ul>
+    <li>Omar Adrian Acosta Santiago - <b>18550685</b></li>
+    <li>Axel Gabriel Ferrel Meza - <b>20550732</b></li>
+    <li>Karen Vanessa Gil Najera - <b>20550352</b></li>
+    <li>Ivan Alejandro Arreola Chavez - <b>20550393</b></li>
+</ul>
+
+
+
+
